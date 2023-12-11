@@ -10,7 +10,7 @@ BOLDBLUE="\e[1;34m"
 
 function set_imc_acc_connection() {
     # remove .ssh/known_hosts file
-    sudo rm -rf .ssh/known_hosts
+    sudo rm -rf ~/.ssh/known_hosts
     sudo rm -rf /root/.ssh/known_hosts
 
     # get the list of interfaces (excluding eth0)
