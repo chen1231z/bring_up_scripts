@@ -1,6 +1,6 @@
 #!/bin/bash
 #created by : chenx.kadosh@intel.com#
-#Swift SW Multi Host Bring up ( LAN + RDMA + NVMe + LCE )#
+#SW Multi Host Bring up ( LAN + RDMA + NVMe + LCE )#
 
 RED='\033[1;31m'
 NC='\033[0m' # No Color
